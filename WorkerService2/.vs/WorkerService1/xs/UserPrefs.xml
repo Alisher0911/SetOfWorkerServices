@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{16749E71-9D9D-4005-8217-823FC5667186}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkerService1/Program.cs">
+    <Files>
+      <File FileName="WorkerService1/appsettings.json" Line="13" Column="30" />
+      <File FileName="WorkerService1/Program.cs" Line="4" Column="30" />
+      <File FileName="WorkerService1/Worker.cs" />
+      <File FileName="WorkerService1/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkerService1" expanded="True">
+            <Node name="WorkerService1" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkerService1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C9161376-5A8E-4A6A-841A-9876C385AD20}|Default">
+  <MonoDevelop.Ide.ItemProperties.SetOfWorkerServices PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SetOfWorkerServices/Startup.cs">
+    <Files>
+      <File FileName="SetOfWorkerServices/Controllers/QueueController.cs" Line="70" Column="33" />
+      <File FileName="SetOfWorkerServices/Data/DataContext.cs" />
+      <File FileName="SetOfWorkerServices/Models/Message.cs" />
+      <File FileName="SetOfWorkerServices/Repositories/Interfaces/IQueueRepository.cs" />
+      <File FileName="SetOfWorkerServices/Repositories/QueueRepository.cs" />
+      <File FileName="SetOfWorkerServices/appsettings.json" />
+      <File FileName="SetOfWorkerServices/Startup.cs" Line="1" Column="1" />
+      <File FileName="SetOfWorkerServices/DTO/MessageDTO.cs" />
+      <File FileName="SetOfWorkerServices/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SetOfWorkerServices" expanded="True">
+            <Node name="SetOfWorkerServices" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

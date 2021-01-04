@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{23865F55-0CDA-466C-B4FE-0F684D8C43BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmailService/Message.cs">
+    <Files>
+      <File FileName="EmailService/EmailConfiguration.cs" Line="4" Column="36" />
+      <File FileName="EmailService/Message.cs" Line="23" Column="6" />
+      <File FileName="EmailService/IEmailSender.cs" />
+      <File FileName="EmailService/EmailSender.cs" />
+      <File FileName="EmailService/MessageDTO.cs" />
+      <File FileName="EmailService/Program.cs" />
+      <File FileName="EmailService/appsettings.json" />
+      <File FileName="EmailService/Worker.cs" Line="48" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmailService" expanded="True">
+            <Node name="EmailService" expanded="True">
+              <Node name="Message.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmailService PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
